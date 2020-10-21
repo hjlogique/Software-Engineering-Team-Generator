@@ -24,7 +24,7 @@
   
   ## Usage 
   
-  This application uses the `inquirer` NPM package to prompt you in the command line with a series of questions about the team manager and the team members. There are default questions like name, id and email, and specific ones like office number for the manager, GitHub username for engineers and school name for interns. The application takes your inputs, uses `async/await` to handle the `inquirer` promise, uses the `htmlRenderer.js` to generate an HTML format based on the main.html template, and uses the `fs.writeFileSync` from fs node module to generate a `team.html` file to display the team summary. The `path` node module accesses and interacts with the file system and generates a new directory for the `team.html` file in case `output` directory is missing.
+  This [application](https://hjlogique.github.io/Software-Engineering-Team-Generator/output/team.html) uses the `inquirer` NPM package to prompt you in the command line with a series of questions about the team manager and the team members. There are default questions like name, id and email, and specific ones like office number for the manager, GitHub username for engineers and school name for interns. The application takes your inputs, uses `async/await` to handle the `inquirer` promise, uses the `htmlRenderer.js` to generate an HTML format based on the main.html template, and uses the `fs.writeFileSync` from fs node module to generate a `team.html` file to display the team summary. The `path` node module accesses and interacts with the file system and generates a new directory for the `team.html` file in case `output` directory is missing.
   
   ## Contributing
   
