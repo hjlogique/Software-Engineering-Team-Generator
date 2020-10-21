@@ -38,6 +38,8 @@
   
   [Link to my GitHub profile](https://github.com/hjlogique)
 
+  [Link to my new portfolio website](https://hjlogique.github.io/My-Portfolio-New/)
+
   If you have any questions, please contact me via email:
   
   Email: hjlogique@yahoo.com
