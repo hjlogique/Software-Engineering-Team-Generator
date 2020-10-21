@@ -20,7 +20,7 @@
   
   In command line type the `npm i` command to install the NPM package dependencies specified in the `package.json` file. They are [inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user, and [jest](https://jestjs.io/) for running the provided tests. Next type `node app.js` to run the application. (watch the clip below)
 
-  ![Demo of Software-Engineering-Team-Generator](team_generator.gif)
+  ![Demo of Software-Engineering-Team-Generator](/assets/media/team_generator.gif)
   
   ## Usage 
   
