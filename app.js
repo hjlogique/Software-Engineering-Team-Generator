@@ -39,7 +39,7 @@ const mainInfo = (memberRole) => {
 				message: `What is the ${memberRole}'s ${element}?`,
 				name: `${element}`
 			});
-			// Create specific prompt questions for different roles:
+			// Specific required information for different roles:
 			// Office number, GitHub and School
 		} else {
 			let specialInfo = (memberRole === "Manager") ? "office number" :
