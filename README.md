@@ -32,7 +32,9 @@
   
   ## Tests
   
-   The `jest` NPM package is installed as a part of this application and used to test this application. There are four `jest` unit tests provided in the `test` directory. You can simply run the tests at any time with the `npm run test` command.
+   The `jest` NPM package is installed as a part of this application and used to test this application. There are four `unit tests` provided in the `test` directory. You can simply run the tests at any time with the `npm run test` command. The following image displays the Jest test results.
+
+   ![Jest Test results](/assets/screenshot/test_result.png)
   
   ## Questions
   
